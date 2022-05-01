@@ -167,6 +167,9 @@ footer a {
 /* Adiante: Modo Mobile */
 @media (max-width: 800px) { 
   /* Body */ 
+  main {
+    margin-top: 70px;
+  }
   footer {
     margin: 70px 30px 30px;
   }
